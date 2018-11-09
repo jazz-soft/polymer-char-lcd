@@ -11,4 +11,4 @@ run `npm install`
 run `polymer serve --open`
 
 ## Non-Polymer version
-https://github.com/jazz-soft/polymer-char-lcd
+https://github.com/jazz-soft/char-lcd
