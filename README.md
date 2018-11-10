@@ -1,7 +1,7 @@
 # polymer-char-lcd
 Coming soon...
 
-![polymer-char-lcd](https://jazz-soft.github.io/img/polymer-char-lcd.png)
+![polymer-char-lcd](https://jazz-soft.github.io/img/polymer-char-lcd.gif)
 
 ## Testing with Polymer
 Make sure the Polymer CLI is installed:
