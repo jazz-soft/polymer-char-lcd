@@ -1,6 +1,6 @@
 {
   "name": "polymer-char-lcd",
-  "description": "Character LCD web-component",
+  "description": "Character LCD WebComponent",
   "main": "index.js",
   "authors": [
     "jazz-soft (https://jazz-soft.net/)"
@@ -9,6 +9,7 @@
   "keywords": [
     "character-lcd",
     "polymer",
+    "webcomponent",
     "web-components",
     "web-component"
   ],
