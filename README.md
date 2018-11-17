@@ -1,4 +1,7 @@
 # polymer-char-lcd
+
+[![npm](https://img.shields.io/npm/v/polymer-char-lcd.svg)](https://www.npmjs.com/package/polymer-char-lcd)
+
 Coming soon...
 
 ![polymer-char-lcd](https://jazz-soft.github.io/img/polymer-char-lcd.gif)
