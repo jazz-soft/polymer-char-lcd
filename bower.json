@@ -8,6 +8,8 @@
   "license": "MIT",
   "keywords": [
     "character-lcd",
+    "lcd",
+    "HD44780",
     "polymer",
     "webcomponent",
     "web-components",
@@ -20,5 +22,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "char-lcd": "^0.0.4"
+  }
 }
