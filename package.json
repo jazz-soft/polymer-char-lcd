@@ -1,6 +1,6 @@
 {
   "name": "polymer-char-lcd",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Character LCD WebComponent",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "@polymer/polymer": "^3.4.1",
     "@webcomponents/webcomponentsjs": "^2.4.4",
-    "char-lcd": "^0.0.6"
+    "char-lcd": "^0.0.7"
   },
   "repository": {
     "type": "git",

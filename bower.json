@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "char-lcd": "^0.0.6"
+    "char-lcd": "^0.0.7"
   }
 }
