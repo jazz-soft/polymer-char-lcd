@@ -18,8 +18,8 @@
   "author": "jazz-soft (https://jazz-soft.net/)",
   "dependencies": {
     "@polymer/polymer": "^3.4.1",
-    "@webcomponents/webcomponentsjs": "^2.4.4",
-    "char-lcd": "^0.0.7"
+    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "char-lcd": "^0.0.9"
   },
   "repository": {
     "type": "git",
