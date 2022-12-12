@@ -1,6 +1,6 @@
 {
   "name": "polymer-char-lcd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Character LCD WebComponent",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,9 @@
   ],
   "author": "jazz-soft (https://jazz-soft.net/)",
   "dependencies": {
-    "@polymer/polymer": "^3.4.1",
-    "@webcomponents/webcomponentsjs": "^2.6.0",
-    "char-lcd": "^0.0.9"
+    "@polymer/polymer": "^3.5.1",
+    "@webcomponents/webcomponentsjs": "^2.7.0",
+    "char-lcd": "^0.1.1"
   },
   "repository": {
     "type": "git",
